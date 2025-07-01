@@ -1,10 +1,10 @@
 export const experiences = [
 	{
-		company: '',
-		time: '',
-		title: '',
-		location: '',
-		description: '',
+		company: 'KONDA Research and Consultancy',
+		time: 'SEPT21-JAN23',
+		title: 'Interview Analyst',
+		location: 'ISTANBUL, TUR',
+		description: 'Conducting interviews, analyzing and visualizing the data.',
 	},
 	// {
 	// 	company: 'Radium Institute (Institut du Radium)',
@@ -17,11 +17,11 @@ export const experiences = [
 
 export const education = [
 	{
-		school: '',
-		time: '',
-		degree: '',
-		location: '',
-		description: '',
+		school: 'Freie Universitat Berlin',
+		time: 'OCT24-...',
+		degree: 'Masters Degree',
+		location: 'BERLIN, GER',
+		description: 'Interdisciplinary Studies of The Middle East',
 	},
 	// {
 	// 	school: 'University of Paris',
