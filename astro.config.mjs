@@ -14,4 +14,6 @@ export default defineConfig({
     site: template.website_url,
     base: template.base,
     
+    build: {
+        assetsPrefix: template.base} //
 });
