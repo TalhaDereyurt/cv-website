@@ -1,5 +1,0 @@
-
-User-agent: *
-Allow: /
-
-Sitemap: https://erayvci.github.io/cv-website//sitemap-index.xml
