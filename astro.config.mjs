@@ -13,7 +13,7 @@ export default defineConfig({
     integrations: [react(), tailwind(), sitemap()],
     site: template.website_url,
     base: template.base,
-    
+    output: 'static',
     build: {
         assetsPrefix: template.base} //
 });
